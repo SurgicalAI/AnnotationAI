@@ -18,7 +18,7 @@ having to install or copy a large dataset onto their computers.
 
 ### DOWNLOAD:
 
-You can download a [zip file of the source code](https://github.com/CSAILVision/LabelMeAnnotationTool/archive/master.zip) directly.  
+You can download a [zip file of the source code](https://github.com/SurgicalAI/AnnotationAI) directly.  
 
 Alternatively, you can clone it from GitHub as follows:
 
